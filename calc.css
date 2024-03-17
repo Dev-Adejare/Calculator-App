@@ -7,3 +7,12 @@ body {
     min-height: 100vh;
     background: #ecf0f3;
 }
+
+.container {
+    width: 45%;
+    height: 45vh;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 12px 12px 20px #cbced1,
+               -12px -12px 20px #ffffff;
+}
